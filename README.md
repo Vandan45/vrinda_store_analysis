@@ -1,4 +1,4 @@
-# vrinda_store_analysis
+# Vrinda Store Analysis
 
 In this project i solve the business problem from analysing previous year sales report . 
 
